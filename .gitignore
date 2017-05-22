@@ -6,3 +6,4 @@ simpleSynchronousTest.py
 simpleTest.py
 vrep.py
 vrepConst.py
+*.pyc
