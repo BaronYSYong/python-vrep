@@ -1,9 +1,2 @@
-complexCommandTest.py
-pathPlanningTest.py
-readMe.txt
 *.so
-simpleSynchronousTest.py
-simpleTest.py
-vrep.py
-vrepConst.py
 *.pyc
