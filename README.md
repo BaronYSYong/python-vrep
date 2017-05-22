@@ -4,6 +4,7 @@
 * Ubuntu 16.04 Xenial
 * V-REP_PRO_EDU_V3_4_0_Linux
     * downlaod from http://www.coppeliarobotics.com/downloads.html
+    * axel http://coppeliarobotics.com/files/V-REP_PRO_EDU_V3_4_0_Linux.tar.gz
 
 ## Reference
 * http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm
