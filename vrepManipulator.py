@@ -32,15 +32,11 @@ class Manipulator:
                 self.currentJointsPos.append(currentPos* 180/math.pi)
         return self.currentJointsPos
     
-
     def GetJointInfo(self):
         obj_type_code = 1
-        data_type_code = 16
-        
+        data_type_code = 16        
         code, handles, types_and_mode, limits_and_ranges, string_data = vrep.simxGetObjectGroupData(
             self.ID, obj_type_code, data_type_code, vrep.simx_opmode_oneshot_wait)
-        if handles.__contains__(handle):
-            return types_and_mode[0], types_and_mode[1], limits_and_ranges[0], limits_and_ranges[1]
-        else:
-            return None
+        print types_and_mode, limits_and_ranges
+
 

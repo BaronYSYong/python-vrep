@@ -1,7 +1,15 @@
 # Python Robot Simulation with V-Rep
 
+## Environment
+* Ubuntu 16.04 Xenial
+* V-REP_PRO_EDU_V3_4_0_Linux
+    * downlaod from http://www.coppeliarobotics.com/downloads.html
+
+## Reference
+* http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm
+
 ## How to Start?
-* Drag and drop 7 DoF Manipulator into screen
+* Drag and drop UR3 into screen
 * Right click on redundantRobot and select Add -> Associated child script -> Threaded
 * Open the script and print below to the script
 ```
