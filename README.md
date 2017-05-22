@@ -7,6 +7,7 @@
 
 ## Reference
 * http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm
+* vrep-api-python 0.1.0
 
 ## How to Start?
 ### V-REP
