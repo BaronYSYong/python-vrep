@@ -49,6 +49,8 @@ In IPython, try command below:
 >>> UR.MoveJoints([0,0,0,0,90,0])
 >>> UR.ReadJoints()
 >>> UR.GetJointInfo()
+>>> LBR = Manipulator(robot_name='LBR_iiwa_14_R820')
+>>> LBR.MoveJoints([45,90,90,45,90,0])
 ```
 
 
