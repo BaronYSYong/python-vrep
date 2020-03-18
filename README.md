@@ -10,6 +10,7 @@
 * http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm
 * vrep-api-python 0.1.0
 * http://teaching-robotics.org/trs2014/data/renaud.pdf
+* https://www.youtube.com/watch?v=OfpB87pRoUk
 
 ## How to Start?
 ### V-REP
